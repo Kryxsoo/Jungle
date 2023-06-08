@@ -1,0 +1,2 @@
+class MattController < ApplicationController
+end
