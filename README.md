@@ -2,6 +2,11 @@
 
 A mini e-commerce application built with Rails 6.1 for purposes of teaching Rails by example.
 
+!["Main Page"](https://github.com/Kryxsoo/Jungle/blob/master/docs/Screenshot%202023-06-09%20at%201.04.28%20AM.png?raw=true)
+!["Product Page"](https://github.com/Kryxsoo/Jungle/blob/master/docs/Screenshot%202023-06-09%20at%201.04.57%20AM.png?raw=true)
+!["Credit Card Order Page"](https://github.com/Kryxsoo/Jungle/blob/master/docs/Screenshot%202023-06-09%20at%201.05.23%20AM.png?raw=true)
+!["Admin Category Page"](https://github.com/Kryxsoo/Jungle/blob/master/docs/Screenshot%202023-06-09%20at%201.06.03%20AM.png?raw=true)
+
 ## Setup
 
 1. Run `bundle install` to install dependencies
